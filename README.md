@@ -29,7 +29,7 @@
   </p>
 </div>
 <p align="center">
-  <a href="####"><img src="https://img.shields.io/static/v1?label=Arxiv&message=#####&color=green&logo=arxiv"></a>
+  <!-- <a href="####"><img src="https://img.shields.io/static/v1?label=Arxiv&message=#####&color=green&logo=arxiv"></a> -->
   <a href="https://yuchuang1205.github.io/"><img src="https://img.shields.io/badge/Homepage-YuChuang1205-red.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg"></a>
   <!-- <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a> -->
@@ -37,9 +37,9 @@
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg"></a>
 </p>
 
-
+ 
 ## 🔥 News
--2026.10 🌟🌟 We have released the **ReState manuscript**.  
+ <!-- -2026.10 🌟🌟 We have released the **ReState manuscript**.  -->
 -2026.10 🌟🌟 We have released the **Complete Code**.  
 
 
@@ -59,7 +59,7 @@
 
 1. Download the dataset
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [download datasets](############) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [[download datasets](############)] 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unzip the downloaded compressed package to the root directory of the project.
 
