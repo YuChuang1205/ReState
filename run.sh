@@ -1,0 +1,30 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 deepspeed main.py \
+    --dataset_name versacot10k \
+    --data_root ../data/VersaCoT10k/data \
+    --caption_file ../data/instruct_captions_VersaCoT10k_qwen72b_ok.json \
+    --model Qwen/Qwen3-VL-8B-Instruct \
+    --train_split train \
+    --val_split val \
+    --test_split test \
+    --qwen_vl \
+    --user_msg rationale_sr2_lite \
+    --bs 4 --eval_bs 4 --epoch 5 --start_epoch 2 --lr 1e-5 --input_len 4096 --output_len 1024 \
+    --gradient_accumulation_steps 1 \
+    --phase2_cot_num 81 \
+    --use_txt_enhancement_phase2 \
+    --solution_origin_pos_prob 0.0 \
+    --use_caption --use_generate --prompt_format QCMG-AE \
+    --self_refine_eval_rounds 10 \
+    --self_refine_eval_rounds_val 3 \
+    --eval_max_new_tokens 1024 \
+    --output_dir experiments_qwen_001 \
+    --deepspeed_config ds_zero3.json \
+    --solution_gen_mode preprocessed \
+    --solution_cache_dir ./solution_aug_cache_train_qwenvl_001 \
+    --solution_cache_read_only \
+    --solution_neg_prob 0.50 \
+    --student_history_dir ./student_solution_history_qwenvl_001 \
+    --student_history_prob 0.20 \
+    --student_history_max_size 2 \
+    --round1_repeat 1 \
+    --round2_repeat 1
