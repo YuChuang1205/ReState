@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- <img src="imgs/ReState-Icon.png" alt="ReState Logo" style="height: 120px; margin-bottom: 5px;" /> -->
+  <img src="imgs/ReState-Icon.png" alt="ReState Logo" style="height: 120px; margin-bottom: 5px;" />
   <h1 style="border-bottom: none;">From Stages to States: Unified Iterative Reasoning for MLLMs</h1>
 </div>
 
