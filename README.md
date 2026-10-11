@@ -13,7 +13,7 @@
     <a href="https://onevfall.github.io/personal_page/" target="_blank">Minghong Cai</a><sup>1</sup>,&nbsp
     <a href="https://wudongming97.github.io/" target="_blank">Dongming Wu</a><sup>1</sup>,&nbsp
     <br>
-    <a>Fei Zhou</a><sup>1</sup>,&nbsp
+    <a href="https://scholar.google.com/citations?user=Sd2wRM4AAAAJ&hl=zh-CN" target="_blank">Fei Zhou</a><sup>1</sup>,&nbsp
     <a href="https://www.chentang.cc/" target="_blank">Chen Tang</a><sup>1</sup>,&nbsp
     <a>Wenwen Tong</a><sup>4</sup>,&nbsp
     <a>Lewei Lu</a><sup>5</sup>,&nbsp
