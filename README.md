@@ -55,7 +55,51 @@
 * **ScienceQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
 * **M3CoT-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
 
+## How to use our code
 
+1. Download the dataset
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [download datasets](############) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unzip the downloaded compressed package to the root directory of the project.
+
+2. Creat a Anaconda Virtual Environment
+
+    ```
+    conda create -n ReState python=3.10 
+    conda activate ReState 
+    ```
+3. Configure the running environment
+   
+   ```
+   pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126 
+   pip install openai==0.23.0 
+   pip install pandas==1.4.3 
+   pip install rouge==1.0.1 
+   pip install sentence-transformers==2.2.2 
+   pip install nltk==3.6.6 
+   pip install evaluate==0.4.0 
+   pip install rouge==1.0.1 
+   pip install rouge_score==0.1.2 
+   pip install rich>=13.3.2 
+   pip install huggingface_hub==0.25.0  
+   pip install transformers==4.31.0 
+   pip install accelerate -U 
+   pip install torchmetrics  
+   pip install termcolor  
+   pip install numpy==1.26.4 
+   pip install ijson  
+   pip install deepspeed==0.18.6  
+   python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+   ```
+4. Training and test the model  
+    ```
+    sh ./run_training.sh
+    ```
+5. Perform inference on each phase of the model independently. (This step is only provided for standalone inference testing purposes.)
+    ```
+    sh ./run_inference.sh
+    ```
 
 
 
