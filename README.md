@@ -119,11 +119,12 @@
 ## Citation
 
 If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **ReState** if it benefits your project. <br>  
-
+<!-- 
 BibTeX reference is as follows.
 ```
 ####################
 ```
+-->
 
 
 
