@@ -38,10 +38,69 @@
 </p>
 
 
-<!-- <p align="center">
-  <a href="https://arxiv.org/abs/2512.05530"><strong>Accepted by ICML2026</strong></a>
-   &nbsp;&nbsp;
-  <a href="https://zhuanlan.zhihu.com/p/2052496387728732408"><strong>知乎解读</strong></a>
-  &nbsp;&nbsp;
-  <a href="#poster"><strong>Poster</strong></a>
-</p> -->
+## 🔥 News
+-2026.10 🌟🌟 We have released the **ReState manuscript**.  
+-2026.10 🌟🌟 We have released the **Complete Code**.  
+
+
+## 🚀 Overview
+<div align="center">
+<br>
+  <img width="100%" src="imgs/ReState-main-figure.png" alt="ReState Overview">
+<br>
+</div>
+
+## Datasets
+* **VersaCoT-10K-RAD** [[The Prepared Dataset](#################)] [[Our original format -- VersaCoT-10K](#################)]
+* **ScienceQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
+* **M3CoT-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
