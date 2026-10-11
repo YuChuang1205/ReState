@@ -6,17 +6,17 @@
 <div align="center">
   <p>
     <a href="https://yuchuang1205.github.io/" target="_blank">Chuang Yu</a><sup>1</sup>,&nbsp
-    <a>Xuefei Ma</a><sup>2</sup>,&nbsp
-    <a>Yuanhao Feng</a><sup>3</sup>,&nbsp
-    <a>Wuxiong Zeng</a><sup>3</sup>,&nbsp
-    <a>Bo Wang</a><sup>3</sup>,&nbsp
+    <a href="https://openreview.net/profile?id=~Xuefei_Ma1" target="_blank">Xuefei Ma</a><sup>2</sup>,&nbsp
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=emdXrWoAAAAJ" target="_blank">Yuanhao Feng</a><sup>3</sup>,&nbsp
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=pU_OpsMAAAAJ" target="_blank">Wuxiong Zeng</a><sup>3</sup>,&nbsp
+    <a href="https://openreview.net/profile?id=~Bo_Wang50" target="_blank">Bo Wang</a><sup>3</sup>,&nbsp
     <a href="https://onevfall.github.io/personal_page/" target="_blank">Minghong Cai</a><sup>1</sup>,&nbsp
     <a href="https://wudongming97.github.io/" target="_blank">Dongming Wu</a><sup>1</sup>,&nbsp
     <br>
     <a href="https://scholar.google.com/citations?user=Sd2wRM4AAAAJ&hl=zh-CN" target="_blank">Fei Zhou</a><sup>1</sup>,&nbsp
     <a href="https://www.chentang.cc/" target="_blank">Chen Tang</a><sup>1</sup>,&nbsp
-    <a>Wenwen Tong</a><sup>4</sup>,&nbsp
-    <a>Lewei Lu</a><sup>5</sup>,&nbsp
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=aGhHuEIAAAAJ" target="_blank">Wenwen Tong</a><sup>4</sup>,&nbsp
+    <a href="https://scholar.google.com/citations?user=zdgKJXIAAAAJ&hl=zh-CN" target="_blank">Lewei Lu</a><sup>5</sup>,&nbsp
     <a href="https://xyue.io/" target="_blank">Xiangyu Yue</a><sup>1*</sup>
     
   </p>
