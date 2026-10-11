@@ -10,11 +10,11 @@
     <a>Yuanhao Feng</a><sup>3</sup>,&nbsp
     <a>Wuxiong Zeng</a><sup>3</sup>,&nbsp
     <a>Bo Wang</a><sup>3</sup>,&nbsp
-    <a>Minghong Cai</a><sup>1</sup>,&nbsp
-    <a>Dongming Wu</a><sup>1</sup>,&nbsp
+    <a href="https://onevfall.github.io/personal_page/" target="_blank">Minghong Cai</a><sup>1</sup>,&nbsp
+    <a href="https://wudongming97.github.io/" target="_blank">Dongming Wu</a><sup>1</sup>,&nbsp
     <br>
     <a>Fei Zhou</a><sup>1</sup>,&nbsp
-    <a>Chen Tang</a><sup>1</sup>,&nbsp
+    <a href="https://www.chentang.cc/" target="_blank">Chen Tang</a><sup>1</sup>,&nbsp
     <a>Wenwen Tong</a><sup>4</sup>,&nbsp
     <a>Lewei Lu</a><sup>5</sup>,&nbsp
     <a href="https://xyue.io/" target="_blank">Xiangyu Yue</a><sup>1*</sup>
