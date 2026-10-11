@@ -109,7 +109,6 @@
     pip install deepspeed==0.18.6
     pip install transformers==5.3.0
     python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
-
    ```
 4. Training and test the model  
     ```
@@ -117,7 +116,14 @@
     ```
 
 
+## Citation
 
+If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **ReState** if it benefits your project. <br>  
+
+BibTeX reference is as follows.
+```
+####################
+```
 
 
 
