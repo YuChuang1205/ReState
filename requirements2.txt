@@ -1,0 +1,12 @@
+huggingface-hub>=0.4.0
+numpy==1.26.0
+openai
+pandas
+rouge
+sentence-transformers
+transformers
+nltk
+evaluate
+rouge
+rouge_score
+rich>=13.3.2
