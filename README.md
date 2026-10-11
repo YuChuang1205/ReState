@@ -34,7 +34,7 @@
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg"></a>
   <!-- <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a> -->
   <!-- <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a> -->
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg"></a>
 </p>
 
 
@@ -72,34 +72,50 @@
 3. Configure the running environment
    
    ```
-   pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126 
-   pip install openai==0.23.0 
-   pip install pandas==1.4.3 
-   pip install rouge==1.0.1 
-   pip install sentence-transformers==2.2.2 
-   pip install nltk==3.6.6 
-   pip install evaluate==0.4.0 
-   pip install rouge==1.0.1 
-   pip install rouge_score==0.1.2 
-   pip install rich>=13.3.2 
-   pip install huggingface_hub==0.25.0  
-   pip install transformers==4.31.0 
-   pip install accelerate -U 
-   pip install torchmetrics  
-   pip install termcolor  
-   pip install numpy==1.26.4 
-   pip install ijson  
-   pip install deepspeed==0.18.6  
-   python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+   ##Qwen2.5-VL and Qwen3-VL
+    pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126
+    pip install -r requirements.txt  -i https://mirrors.tencent.com/pypi/simple
+    pip install huggingface_hub==0.25.0  -i https://mirrors.tencent.com/pypi/simple
+    pip install transformers==4.31.0 -i https://mirrors.tencent.com/pypi/simple
+    pip install accelerate -U
+    pip install sentence-transformers==5.2.3
+    pip  install transformers==4.57.6
+    pip install torchmetrics
+    pip install termcolor
+    pip install numpy==1.26.4
+    pip install ijson
+    pip install deepspeed
+    apt-get update && apt-get install -y libaio-dev
+    pip uninstall deepspeed
+    pip install deepspeed==0.18.6
+    python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+   ```
+    ```
+   ##Qwen3.5-VL  Python 3.11 is recommended.
+    pip config set global.index-url https://mirrors.tencent.com/pypi/simple
+    pip config set global.extra-index-url https://mirrors.tencent.com/repository/pypi/tencent_pypi/simple
+    pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu126
+    pip install -r requirements2.txt  -i https://mirrors.tencent.com/pypi/simple
+    pip install huggingface_hub -i https://mirrors.tencent.com/pypi/simple
+    pip install transformers -i https://mirrors.tencent.com/pypi/simple
+    pip install accelerate -U
+    pip install sentence-transformers
+    pip  install transformers
+    pip install torchmetrics
+    pip install termcolor
+    pip install numpy==1.26.4
+    pip install ijson
+    apt-get update && apt-get install -y libaio-dev
+    pip install deepspeed==0.18.6
+    pip install transformers==5.3.0
+    python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+
    ```
 4. Training and test the model  
     ```
-    sh ./run_training.sh
+    sh ./run.sh --model Qwen/Qwen3-VL-8B-Instruct
     ```
-5. Perform inference on each phase of the model independently. (This step is only provided for standalone inference testing purposes.)
-    ```
-    sh ./run_inference.sh
-    ```
+
 
 
 
