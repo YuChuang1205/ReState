@@ -51,7 +51,7 @@
 </div>
 
 ## Datasets
-* **VersaCoT-10K-RAD** [[The Prepared Dataset](#################)] [[Our original format -- VersaCoT-10K](#################)]
+* **VersaCoT-10K-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/83f9795101fd)] [[Our original format -- VersaCoT-10K](https://pan.quark.cn/s/5bfd50eff0c9)]
 * **ScienceQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
 * **M3CoT-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
 
@@ -59,7 +59,7 @@
 
 1. Download the dataset
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [[download datasets](############)] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [[download datasets](https://pan.quark.cn/s/83f9795101fd)] 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unzip the downloaded compressed package to the root directory of the project.
 
