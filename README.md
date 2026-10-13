@@ -116,6 +116,27 @@
     ```
 
 
+## Results
+<div align="center">
+<br>
+  <img width="100%" src="imgs/Results-versacot-10k.png" alt="Results-versacot-10k">
+<br>
+</div>
+
+<div align="center">
+<br>
+  <img width="100%" src="imgs/Results-scienceqa.png" alt="Results-scienceqa">
+<br>
+</div>
+
+<div align="center">
+<br>
+  <img width="100%" src="imgs/Results-m3cot.png" alt="Results-m3cot">
+<br>
+</div>
+
+
+
 ## Citation
 
 If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **ReState** if it benefits your project. <br>  
