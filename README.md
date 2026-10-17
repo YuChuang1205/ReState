@@ -26,7 +26,7 @@
     <sup>4</sup> Peking University &nbsp;&nbsp;
     <sup>5</sup> CPII
     <br>
-    † Corresponding author
+    <sup>†</sup> Corresponding author
   </p>
 </div>
 <p align="center">
