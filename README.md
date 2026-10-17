@@ -141,12 +141,20 @@
 ## Citation
 
 If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **ReState** if it benefits your project. <br>  
-<!-- 
+
 BibTeX reference is as follows.
 ```
-####################
+@misc{yu2026stagesstatesunifiediterative,
+      title={From Stages to States: Unified Iterative Reasoning for MLLMs}, 
+      author={Chuang Yu and Xuefei Ma and Yuanhao Feng and Wuxiong Zeng and Bo Wang and Minghong Cai and Dongming Wu and Fei Zhou and Chen Tang and Wenwen Tong and Lewei Lu and Xiangyu Yue},
+      year={2026},
+      eprint={2610.15620},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2610.15620}, 
+}
 ```
--->
+
 
 
 
