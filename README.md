@@ -144,14 +144,11 @@ If you find this repo helpful, please give us a 🤩**star**🤩. Please conside
 
 BibTeX reference is as follows.
 ```
-@misc{yu2026stagesstatesunifiediterative,
-      title={From Stages to States: Unified Iterative Reasoning for MLLMs}, 
-      author={Chuang Yu and Xuefei Ma and Yuanhao Feng and Wuxiong Zeng and Bo Wang and Minghong Cai and Dongming Wu and Fei Zhou and Chen Tang and Wenwen Tong and Lewei Lu and Xiangyu Yue},
-      year={2026},
-      eprint={2610.15620},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2610.15620}, 
+@article{yu2026stages,
+  title={From Stages to States: Unified Iterative Reasoning for MLLMs},
+  author={Yu, Chuang and Ma, Xuefei and Feng, Yuanhao and Zeng, Wuxiong and Wang, Bo and Cai, Minghong and Wu, Dongming and Zhou, Fei and Tang, Chen and Tong, Wenwen and others},
+  journal={arXiv preprint arXiv:2610.15620},
+  year={2026}
 }
 ```
 
