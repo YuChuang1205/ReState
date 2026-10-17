@@ -25,7 +25,8 @@
     <sup>3</sup> Tencent &nbsp;&nbsp;
     <sup>4</sup> Peking University &nbsp;&nbsp;
     <sup>5</sup> CPII
-    <br>
+  </p>
+  <p>
     † Corresponding author
   </p>
 </div>
