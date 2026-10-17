@@ -18,15 +18,14 @@
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=aGhHuEIAAAAJ" target="_blank">Wenwen Tong</a><sup>4</sup>,&nbsp
     <a href="https://scholar.google.com/citations?user=zdgKJXIAAAAJ&hl=zh-CN" target="_blank">Lewei Lu</a><sup>5</sup>,&nbsp
     <a href="https://xyue.io/" target="_blank">Xiangyu Yue</a><sup>1†</sup>
-  </p>
-  <p>
+  <br>
+  <br>
     <sup>1</sup> MMLab, CUHK &nbsp;&nbsp;
     <sup>2</sup> PolyU &nbsp;&nbsp;
     <sup>3</sup> Tencent &nbsp;&nbsp;
     <sup>4</sup> Peking University &nbsp;&nbsp;
     <sup>5</sup> CPII
-  </p>
-  <p>
+    <br>
     † Corresponding author
   </p>
 </div>
