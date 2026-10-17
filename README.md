@@ -29,7 +29,7 @@
   </p>
 </div>
 <p align="center">
-  <!-- <a href="####"><img src="https://img.shields.io/static/v1?label=Arxiv&message=#####&color=green&logo=arxiv"></a> -->
+  <a href="https://arxiv.org/abs/2610.15620v1"><img src="https://img.shields.io/static/v1?label=Arxiv&message=2610.15620v1&color=green&logo=arxiv"></a>
   <a href="https://yuchuang1205.github.io/"><img src="https://img.shields.io/badge/Homepage-YuChuang1205-red.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg"></a>
   <!-- <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a> -->
@@ -39,7 +39,7 @@
 
  
 ## 🔥 News
- <!-- -2026.10 🌟🌟 We have released the **ReState manuscript**.  -->
+-2026.10 🌟🌟 We have released the [**ReState manuscript**](https://arxiv.org/abs/2610.15620v1).  
 -2026.10 🌟🌟 We have released the **Complete Code**.  
 
 
