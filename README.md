@@ -31,7 +31,8 @@
 </div>
 <p align="center">
   <a href="https://arxiv.org/abs/2610.15620v1"><img src="https://img.shields.io/static/v1?label=Arxiv&message=2610.15620v1&color=green&logo=arxiv"></a>
-  <a href="https://yuchuang1205.github.io/"><img src="https://img.shields.io/badge/Homepage-YuChuang1205-red.svg"></a>
+  <a href="https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-VersaCoT--10K-FFD21E"></a>
+  <!-- <a href="https://yuchuang1205.github.io/"><img src="https://img.shields.io/badge/Homepage-YuChuang1205-red.svg"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg"></a>
   <!-- <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a> -->
   <!-- <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-5865F2.svg"></a> -->
@@ -52,7 +53,7 @@
 </div>
 
 ## Datasets
-* **VersaCoT-10K-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/83f9795101fd)] [[Our original format -- VersaCoT-10K](https://pan.quark.cn/s/5bfd50eff0c9)]
+* **VersaCoT-10K-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/83f9795101fd)] [[Our original format -- VersaCoT-10K](https://pan.quark.cn/s/5bfd50eff0c9)] [[Hugging Face 🤗]](https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K)
 * **ScienceQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
 * **M3CoT-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
 
