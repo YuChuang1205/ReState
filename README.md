@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
- <a href="https://restate-project.github.io"><strong>🌸ReState Website🌸</strong></a>
+ <a href="https://restate-project.github.io"><strong>🌸 ReState Website 🌸</strong></a>
 </p>
  
 ## 🔥 News
