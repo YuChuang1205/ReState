@@ -54,9 +54,10 @@
 </div>
 
 ## Datasets
-* **VersaCoT-10K-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/83f9795101fd)] [[Our original format -- VersaCoT-10K](https://pan.quark.cn/s/5bfd50eff0c9)] [[Hugging Face 🤗]](https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K)
-* **ScienceQA-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/91b4e26f51f6)] [[The original paper for the original dataset](https://arxiv.org/abs/2209.09513)]
-* **M3CoT-RAD** [[The Prepared Dataset](https://pan.quark.cn/s/d5199dd0e808)] [[The original paper for the original dataset](https://arxiv.org/abs/2405.16473)]  
+* **VersaCoT-10K** [[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K)] [[Quark Cloud Drive](https://pan.quark.cn/s/5bfd50eff0c9)]
+* **VersaCoT-10K-RAD** [[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K-RAD-Version)] [[Quark Cloud Drive](https://pan.quark.cn/s/83f9795101fd)]
+* **ScienceQA-RAD** [[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/ScienceQA-RAD-Version)][[Quark Cloud Drive](https://pan.quark.cn/s/91b4e26f51f6)]
+* **M3CoT-RAD** [[Hugging Face 🤗](https://huggingface.co/datasets/YuChuang1205/M3CoT-RAD-Version)] [[Quark Cloud Drive](https://pan.quark.cn/s/d5199dd0e808)]
 
 ## How to use our code
 
