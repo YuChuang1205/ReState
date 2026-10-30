@@ -30,7 +30,7 @@
   </p>
 </div>
 <p align="center">
-  <a href="https://arxiv.org/abs/2610.15620v1"><img src="https://img.shields.io/static/v1?label=Arxiv&message=2610.15620v1&color=green&logo=arxiv"></a>
+  <a href="https://arxiv.org/abs/2610.15620"><img src="https://img.shields.io/static/v1?label=Arxiv&message=2610.15620&color=green&logo=arxiv"></a>
   <a href="https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-VersaCoT--10K-FFD21E"></a>
   <!-- <a href="https://yuchuang1205.github.io/"><img src="https://img.shields.io/badge/Homepage-YuChuang1205-red.svg"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg"></a>
