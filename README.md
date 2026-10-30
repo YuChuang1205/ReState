@@ -122,6 +122,10 @@
     sh ./run.sh --model Qwen/Qwen3-VL-8B-Instruct
     ```
 
+## Tools
+We provide tools for pre-extracting image features and generating image captions:
+1. **"data_vision_feature_make"** is used for pre-extracting image features.
+2. **"data_image_caption_make"** is used for generating image captions.
 
 ## Results
 <div align="center">
