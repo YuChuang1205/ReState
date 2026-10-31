@@ -44,6 +44,7 @@
 </p>
  
 ## 🔥 News
+-2026.11 🌟🌟 We have released the [**ReState Website**](https://restate-project.github.io).   
 -2026.10 🌟🌟 We have released the [**VersaCoT-10K dataset**](https://huggingface.co/datasets/YuChuang1205/VersaCoT-10K).  
 -2026.10 🌟🌟 We have released the [**ReState manuscript**](https://arxiv.org/abs/2610.15620v1).  
 -2026.10 🌟🌟 We have released the **Complete Code**.  
